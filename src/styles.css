@@ -33,3 +33,10 @@ li, a {
     display: inline-block;
     padding: 0px 20px;
 }
+#menssage_wel {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+}
